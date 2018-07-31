@@ -6,6 +6,6 @@ If we know over 8 corresponding points between two images, we can know Rotation 
 
 Main source code is "GetFmatrix_Final.m"
 
-more detial description is refer to here "http://study.marearts.com/2011/11/8-point-algorithm-matlab-source-code.html"
+more detail description is refer to here "http://study.marearts.com/2011/11/8-point-algorithm-matlab-source-code.html"
 
 Thank you.
